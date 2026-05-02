@@ -1,5 +1,5 @@
 
-<img width="913" height="913" alt="image" src="https://github.com/user-attachments/assets/df2bc718-cfa6-4487-993a-5f9f5d3bc14c" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/df2bc718-cfa6-4487-993a-5f9f5d3bc14c" />
 
 <h1 align="center">Hey 👋What's Up?</h1>
 
