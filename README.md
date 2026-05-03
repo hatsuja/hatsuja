@@ -6,12 +6,12 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+  
+  <img width="116" height="213" alt="image" src="https://github.com/user-attachments/assets/d262ff8c-d0f5-4e59-87c0-552564345d6f" />
 ###
 
 <div align="left">
-  
-  <img width="1116" height="913" alt="image" src="https://github.com/user-attachments/assets/d262ff8c-d0f5-4e59-87c0-552564345d6f" />
+
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
