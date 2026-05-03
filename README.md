@@ -1,18 +1,14 @@
 <h2 align="left">Hi I am lexsus</h2>
 
-<img width="1440" height="456" alt="image" src="https://github.com/user-attachments/assets/d08757e5-9140-4751-a60a-e1e1399b980e" />
-
 
 ###
-
-
-  
+  <div align="right">
   <img width="116" height="113" alt="image" src="https://github.com/user-attachments/assets/d262ff8c-d0f5-4e59-87c0-552564345d6f" />
+  </div>
   
 ###
 
 <div align="left">
-
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
