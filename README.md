@@ -5,9 +5,10 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
   
-  <img width="116" height="213" alt="image" src="https://github.com/user-attachments/assets/d262ff8c-d0f5-4e59-87c0-552564345d6f" />
+  <img width="116" height="113" alt="image" src="https://github.com/user-attachments/assets/d262ff8c-d0f5-4e59-87c0-552564345d6f" />
+  
 ###
 
 <div align="left">
