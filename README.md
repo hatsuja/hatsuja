@@ -1,10 +1,13 @@
-<h2 align="left">Hi I am lexsus</h2>
-
-
-###
   <div align="right">
   <img width="116" height="113" alt="image" src="https://github.com/user-attachments/assets/d262ff8c-d0f5-4e59-87c0-552564345d6f" />
   </div>
+
+  
+  <h1 align="left">Hi I am lexsus</h1>
+
+
+###
+
   
 ###
 
