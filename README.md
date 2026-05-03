@@ -1,5 +1,8 @@
 <h2 align="left">Hi I am lexsus</h2>
 
+<img width="1440" height="456" alt="image" src="https://github.com/user-attachments/assets/d08757e5-9140-4751-a60a-e1e1399b980e" />
+
+
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
